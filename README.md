@@ -1,3 +1,1 @@
-<div align="center">
-<img src="giphy.gif"  frameBorder="0" class="giphy-embed" allowFullScreen></img>
-</div>
+![image](https://github.com/mistermboy/mistermboy/blob/master/giphy.gif)<div align="center">
