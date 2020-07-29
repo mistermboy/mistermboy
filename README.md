@@ -1,1 +1,1 @@
-![image](https://github.com/mistermboy/mistermboy/blob/master/gif.gif)<div align="center">
+![image](https://github.com/mistermboy/mistermboy/blob/master/gato.gif)<div align="center">
